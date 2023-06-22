@@ -13,3 +13,5 @@ int main(){
     printf("%d",*(int*)pt);
     return 0;
 }
+
+//output=3
