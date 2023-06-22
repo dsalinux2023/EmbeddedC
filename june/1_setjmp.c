@@ -14,3 +14,6 @@ int main()
     longjmp(buf,1);
     return 0;
 }
+
+
+//output=5
